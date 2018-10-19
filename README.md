@@ -3,6 +3,7 @@ Examen de acceso a datos
 ## Nombre: Gonzalo José 
 ## Apellidos: Caballero Ponce
 ## DNI: 15402396D
+## URL: https://github.com/goncabpon/ExamenAccesoDatos.git
 
 ## Pregunta 1
 La principal diferencia entre IQueryable<T> e IEnumerable<T> es que en el IEnumerable se pueden meter los delegados y en el IQueryable se tienen Expressions, con lo que se puede obtener un árbol AST y con el visitior pattern obtener los resultados que quiera. 
